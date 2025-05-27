@@ -132,3 +132,4 @@ dist
 # Visual Studio
 .vs/
 
+dist/
